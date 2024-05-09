@@ -1,6 +1,39 @@
-= De couragéise klenge Schneiderfootnote:[Eventuell ass daper déi besser Iwwersetzung, et kennt mer allerdéngs vereelzt fir. Umierkung vum Iwwersetzer.]
+= De couragéise klenge Schneiderfootnote:[Eventuell ass daper déi besser Iwwersetzung, et kennt mer allerdéngs vereelzt fir. {uvi}]
+:uvi: Umierkung vum Iwwersetzer.
+:fn-lout: footnote:[https://de.wikipedia.org/wiki/Lot_(Einheit)[Eng al Eenheet fir d’Mass (Gewiicht).] Jee no Regioun waren ee Lot 14 bis 18 Gramm. https://dico.uni.lu/?sigle=LWB&lemid=L01513[Bei eis 16,66 Gramm.] Dat ass ongeféier een Zoppeläffel voll. 4 Lout ≈ 67 g. {uvi}]
+:fn-pond: footnote:[Pond ass och eng al Eenheet fir d'Mass. Ass nach geleefeg an entsprecht 500 Gramm. 1/4 Pond = 125 g. {uvi}]
 
-Enges Summermoien souz e klenge Schneider op sengem Dësch beim Fënster, hien hat gutt Laun a huet fläisseg gebitzt.
+Enges Summermoien souz e klenge Schneider op sengem Dësch bei der Fënster, hien hat gutt Laun a huet fläisseg gebitzt.
 Dunn koum eng Bauerefra duerch d'Strooss a huet geruff: "Gudde Kompott ze verkafen! Gudde Kompott ze verkafen!"
 
-Dee Klang huet dem Schneider gefall, hien huet säin zaarte Kapp aus dem Fënster gestach a geruff: "Kommt heihin, léif Fra, hei gitt Dir Är Wuer lass."
+Dee Klang huet dem Schneider gefall, hien huet säin zaarte Kapp aus dem Fënster gestach a geruff: "Kommt heihin, léif Fra, hei gitt Dir är Wuer lass."
+
+D' Fra ass déi dräi Trape mat hirem schwéierem Kuerf bis bei de Schneider ropgaang an huet do missen all hier Deppe virun hie stellen.
+Hien huet se sech all ugekuckt, an d'Luucht gehal, dru geroch an endlech gesot:
+"Dëse Kompott schéngt mer gutt!
+Gutt Fra, maacht mer véier Lout{fn-lout}.
+An wann et ee Véirelspond{fn-pond} gëtt, dann ass et och an der Rei."
+
+D'Fra huet em ginn, wat e gefrot hat.
+Mee well se gehofft hat, kënne vill mam Schneider ze verdéngen, ass se veriergert a knoutereg fort gaang.
+
+"Gott soll mer de Kompott seenen", huet de klenge Schneider geruff, "a soll mer Kraaft a Stäerkt ginn".
+Dunn huet en d'Brot aus dem Schaf geholl, huet sech eng Schmier ofgeschnidden a Kompott drop geschmiert.
+"Dat gëtt keng batter Schmier", sot en, "mee fir d'éischt maen ech de Gilet nach fäerdeg, ier ech se eessen."
+
+Hien huet d'Brot nieft sech geluecht, huet weider gebitzt a viru Freed ëmmer méi grouss Stéch gemeet.
+Wärenddeems huet de séisse Kompott sou gutt geroch, dat och déi vill Mécken un der Mauer d'Schmier bemierkt hunn.
+Vum Geroch ugelackelt hunn si sech kéipweis drop gesat.
+
+"Hej! Wien huet iech dann invitéiert?", sot de klenge Schneider an huet déi ongebiede Gäscht verjot.
+Mee d'Mécke konnte kee Lëtzebuergesch an hunn sech net ofweise gelooss.
+Et goufen der souguer ëmmer mei!
+Do ass et dem Schneider duer gaang an a senger Roserei huet en d'Kichenduch geholl.
+"Waart! Iech weisen ech et!" an huet ouni ze zecken drop gehae.
+Wéi en d'Duch wech geholl a gezielt huet, du louchen do net manner wéi siwen dout Mécke virun him an hunn d'Bee wech gestreckt.
+
+"Wat bass du ee Kärel!", huet e gesot an hien huet sech selwer bewonnert.
+"Dat muss ech jiddereen aus der Staat gewuer ginn,"
+Do huet sech de klenge Schneider ee Rimm gemeet an grouss Buschtawen drop brodéiert:
+
+"Siwen op ee Streech!"
