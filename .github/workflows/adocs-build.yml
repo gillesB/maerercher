@@ -16,7 +16,7 @@ jobs:
       uses: avattathil/asciidoctor-action@master
       with:
           program: "asciidoctor-epub3 -D output de_courageise_schneider.adoc"
-    - name: Deploy docs to ghpages
+    - name: Upload artifact
       uses: actions/upload-artifact@v4
       with:
         name: maerercher_epub
