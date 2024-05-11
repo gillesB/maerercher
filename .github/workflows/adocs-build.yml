@@ -1,0 +1,23 @@
+name: build adocs
+
+on:
+  push:
+    branches:
+    - main
+jobs:
+  adoc_build:
+    runs-on: ubuntu-latest
+    name: adoc_to_epub
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    - name: Get build container
+      id: adocbuild
+      uses: avattathil/asciidoctor-action@master
+      with:
+          program: "asciidoctor-epub3 -D output de_courageise_schneider.adoc"
+    - name: Deploy docs to ghpages
+      uses: actions/upload-artifact@v4
+      with:
+        name: maerercher_epub
+        path: output/
